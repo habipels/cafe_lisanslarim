@@ -1,1 +1,2 @@
-lisans_key = 4asd4sd4a4sa4dad , 0 
+lisans_key = 4asd4sd4a4sa4dad , 365
+
