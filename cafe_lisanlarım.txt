@@ -1,1 +1,2 @@
 lisans_key = 4asd4sd4a4sa4dad , 365 , full
+lisans_key = MUSTERI-001-ABC123 , 365 , standart
