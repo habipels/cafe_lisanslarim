@@ -2,3 +2,4 @@ lisans_key = 4asd4sd4a4sa4dad , 365 , full
 lisans_key = MUSTERI-001-ABC123 , 365 , standart
 lisans_key = 1453first_date1453 , 365 , orta
 lisans_key = demo , 14 , full
+lisans_key = 1453lumina1453 , 365 , full
